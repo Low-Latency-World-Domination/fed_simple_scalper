@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "fed-simple-scalper-py"
+version = "0.1.0"
+description = ""
+authors = ["stevenmaharaj <stevesamah@gmail.com>"]
+readme = "README.md"
+packages = [{include = "fed_simple_scalper"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

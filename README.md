@@ -1,0 +1,1 @@
+# Exampling scalping bot
